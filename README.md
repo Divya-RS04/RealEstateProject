@@ -11,27 +11,20 @@ The goal is to help buyers, sellers, and investors make informed decisions by pr
 🎯 Problem Statement
 
 Predict house prices using:
-
 Distance to nearest MRT station
-
 Number of convenience stores
-
 Latitude and longitude
 
 📊 Dataset
 
 Dataset: Real Estate Dataset
-
 Records: 414
-
 Target: House price of unit area
 
 🧠 Machine Learning
 
 Algorithm: Linear Regression
-
 Metrics: R² Score, RMSE
-
 Model Saving: Joblib (.pkl)
 
 🖥️ Web Application
@@ -41,7 +34,5 @@ Framework: Streamlit
 Features:
 
 Modern card-based UI
-
 Responsive layout
-
 Clean design with highlighted predictions
