@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    font-family: "Segoe UI", sans-serif;
+}
+
+.card-custom {
+    border-radius: 16px;
+    background: white;
+}
+
+.title-text {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.subtitle-text {
+    font-size: 0.95rem;
+    color: #6c757d;
+}
